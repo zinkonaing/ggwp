@@ -1,0 +1,15 @@
+.btn-icon{
+    width: 50px !important;
+}
+@font-face {
+    font-family: "mm";
+    src: url("../fonts/mmrtext.ttf");
+}
+
+.mm{
+    font-family: "mm" !important;
+}
+.mm-beauty{
+    font-family: "mm" !important;
+    line-height: 2;
+}
